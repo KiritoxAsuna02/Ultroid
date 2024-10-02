@@ -25,7 +25,7 @@ RP_BUTTONS = [
         Button.url(get_string("bot_3"), "https://github.com/"),
         Button.url("Addons", "https://github.com/"),
     ],
-    [Button.url("Support Group", "t.me/UltroidSupportChat")],
+    [Button.url("Support Group", "t.me/darkyxsupport")],
 ]
 
 ULTSTRING = """🎇 **Thanks for Deploying Darky Userbot!**
