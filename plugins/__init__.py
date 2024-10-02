@@ -63,12 +63,12 @@ STUFF = {}
 # Feel Free to Add Any other...
 
 NOSPAM_CHAT = [
-    -1001361294038,  # UltroidSupportChat
-    -1001387666944,  # PyrogramChat
-    -1001109500936,  # TelethonChat
-    -1001050982793,  # Python
-    -1001256902287,  # DurovsChat
-    -1001473548283,  # SharingUserbot
+    -1001556014635,  # DarkySupportChat
+    -1001556014635,  # PyrogramChat
+    -1001556014635,  # TelethonChat
+    -1001556014635,  # Python
+    -1001556014635,  # DurovsChat
+    -1001556014635,  # SharingUserbot
 ]
 
 KANGING_STR = [
