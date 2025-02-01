@@ -36,10 +36,12 @@
 - Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
 ---
 
-## Deploy to Heroku
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KiritoxAsuna02/Ultroid"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
